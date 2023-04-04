@@ -1,6 +1,6 @@
-package com.example.curso.repository;
+package com.facens.plataformacurso.repository;
 
-import com.example.curso.entities.CursoEntity;
+import com.facens.plataformacurso.entities.CursoEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

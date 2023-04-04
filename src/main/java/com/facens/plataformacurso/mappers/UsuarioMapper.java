@@ -1,7 +1,7 @@
-package com.example.curso.mappers;
+package com.facens.plataformacurso.mappers;
 
-import com.example.curso.dto.UsuarioDTO;
-import com.example.curso.entities.UsuarioEntity;
+import com.facens.plataformacurso.dto.UsuarioDTO;
+import com.facens.plataformacurso.entities.UsuarioEntity;
 
 public class UsuarioMapper {
 

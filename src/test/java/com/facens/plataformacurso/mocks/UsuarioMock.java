@@ -1,6 +1,6 @@
-package com.example.curso.mocks;
+package com.facens.plataformacurso.mocks;
 
-import com.example.curso.entities.UsuarioEntity;
+import com.facens.plataformacurso.entities.UsuarioEntity;
 
 import java.util.Collections;
 import java.util.UUID;

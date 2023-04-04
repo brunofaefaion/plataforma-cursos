@@ -1,6 +1,6 @@
-package com.example.curso.service;
+package com.facens.plataformacurso.service;
 
-import com.example.curso.dto.UsuarioDTO;
+import com.facens.plataformacurso.dto.UsuarioDTO;
 
 import java.util.UUID;
 

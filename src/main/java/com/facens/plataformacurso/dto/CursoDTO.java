@@ -1,4 +1,4 @@
-package com.example.curso.dto;
+package com.facens.plataformacurso.dto;
 
 import lombok.Builder;
 import lombok.Data;

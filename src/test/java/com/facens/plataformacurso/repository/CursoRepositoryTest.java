@@ -1,9 +1,9 @@
-package com.example.curso.repository;
+package com.facens.plataformacurso.repository;
 
-import com.example.curso.entities.CursoEntity;
-import com.example.curso.entities.UsuarioEntity;
-import com.example.curso.mocks.CursoMock;
-import com.example.curso.mocks.UsuarioMock;
+import com.facens.plataformacurso.entities.CursoEntity;
+import com.facens.plataformacurso.entities.UsuarioEntity;
+import com.facens.plataformacurso.mocks.CursoMock;
+import com.facens.plataformacurso.mocks.UsuarioMock;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;

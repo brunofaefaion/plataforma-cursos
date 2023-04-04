@@ -1,5 +1,5 @@
 
-package com.example.curso.entities;
+package com.facens.plataformacurso.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

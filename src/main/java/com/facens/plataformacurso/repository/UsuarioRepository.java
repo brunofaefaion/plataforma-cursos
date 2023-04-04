@@ -1,6 +1,6 @@
-package com.example.curso.repository;
+package com.facens.plataformacurso.repository;
 
-import com.example.curso.entities.UsuarioEntity;
+import com.facens.plataformacurso.entities.UsuarioEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

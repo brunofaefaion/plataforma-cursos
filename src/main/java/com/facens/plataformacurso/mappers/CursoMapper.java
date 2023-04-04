@@ -1,7 +1,7 @@
-package com.example.curso.mappers;
+package com.facens.plataformacurso.mappers;
 
-import com.example.curso.dto.CursoDTO;
-import com.example.curso.entities.CursoEntity;
+import com.facens.plataformacurso.dto.CursoDTO;
+import com.facens.plataformacurso.entities.CursoEntity;
 
 public class CursoMapper {
     public static CursoDTO convertDTO(CursoEntity entity){

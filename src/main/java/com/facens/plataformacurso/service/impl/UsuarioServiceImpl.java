@@ -1,12 +1,12 @@
-package com.example.curso.service.impl;
+package com.facens.plataformacurso.service.impl;
 
-import com.example.curso.dto.CursoDTO;
-import com.example.curso.dto.UsuarioDTO;
-import com.example.curso.entities.UsuarioEntity;
-import com.example.curso.mappers.UsuarioMapper;
-import com.example.curso.repository.UsuarioRepository;
-import com.example.curso.service.CursoService;
-import com.example.curso.service.UsuarioService;
+import com.facens.plataformacurso.dto.CursoDTO;
+import com.facens.plataformacurso.dto.UsuarioDTO;
+import com.facens.plataformacurso.entities.UsuarioEntity;
+import com.facens.plataformacurso.mappers.UsuarioMapper;
+import com.facens.plataformacurso.repository.UsuarioRepository;
+import com.facens.plataformacurso.service.CursoService;
+import com.facens.plataformacurso.service.UsuarioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

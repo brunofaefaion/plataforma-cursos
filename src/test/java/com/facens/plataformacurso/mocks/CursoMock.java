@@ -1,6 +1,6 @@
-package com.example.curso.mocks;
+package com.facens.plataformacurso.mocks;
 
-import com.example.curso.entities.CursoEntity;
+import com.facens.plataformacurso.entities.CursoEntity;
 
 import java.time.LocalDate;
 import java.util.List;
